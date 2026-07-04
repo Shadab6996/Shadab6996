@@ -42,33 +42,12 @@ Hi, I'm **Mohd Shadab**, a final-year B.Tech student at **IIIT Delhi** passionat
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Shadab6996&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Shadab6996&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shadab6996&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Shadab6996&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-### 📈 Contribution Graph
-
-[![Shadab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadab6996&theme=github-compact)](https://github.com/Shadab6996)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
